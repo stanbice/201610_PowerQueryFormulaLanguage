@@ -1,0 +1,100 @@
+Transaction_date,Product,Price,Payment_Type,Name,City,State,Country,Account_Created,Last_Login,Latitude,Longitude
+1/23/2016 16:30,Product2,3600,Amex,Christophe,Temecula                    ,CA,United States,1/9/2016 15:59,2/14/2016 19:11,33.49361,-117.1475
+1/5/2016 12:57,Product1,1200,Diners,Manoj,Boise                       ,ID,United States,1/5/2016 9:32,2/14/2016 19:19,43.61361,-116.2025
+1/29/2016 16:52,Product1,1200,Visa,Brenda,Rock Hill                   ,SC,United States,1/25/2016 12:00,2/14/2016 19:34,34.92472,-81.02528
+1/10/2016 0:04,Product1,1200,Mastercard,Lizelle ,Mililani                    ,HI,United States,1/9/2016 23:37,2/14/2016 19:34,21.42556,-157.96083
+1/3/2016 14:17,Product2,3600,Visa,Kees en Valesca,Scamander,Tasmania,Australia,1/3/2016 13:53,2/14/2016 20:11,-41.465,148.2572222
+1/15/2016 9:00,Product1,1200,Visa,Cormac,Freeport City,Freeport,The Bahamas,1/15/2016 8:10,2/14/2016 20:36,26.5333333,-78.7
+1/24/2016 20:58,Product1,1200,Visa,jacqueline,North Vancouver,British Columbia,Canada,12/28/2015 15:54,2/14/2016 22:12,49.3166667,-123.0666667
+1/10/2016 11:53,Product1,1200,Visa,Martin,Ludwigsburg,Baden-Wurttemberg,Germany,1/17/2015 8:20,2/15/2016 1:42,48.9,9.1833333
+1/4/2016 17:34,Product1,1200,Mastercard,Dean,Rockingham,Western Australia,Australia,10/20/2007 19:09,2/15/2016 2:14,-32.2833333,115.7166667
+1/28/2016 0:22,Product1,1200,Visa,VERBENA,Basel,Basel-Town,Switzerland,9/27/2015 0:24,2/15/2016 3:20,47.5666667,7.6
+1/17/2016 1:49,Product1,1200,Mastercard,Angel Marie,Den Haag,Zuid-Holland,Netherlands,1/13/2016 5:09,2/15/2016 5:19,52.0833333,4.3
+1/25/2016 17:48,Product1,1200,Visa,olla,Westminster                 ,CO,United States,1/24/2016 23:48,2/15/2016 8:08,39.83667,-105.03667
+1/22/2016 5:39,Product2,3600,Visa,Eman,Penclawdd,Wales,United Kingdom,1/14/2016 13:33,2/15/2016 8:34,51.6333333,-4.1
+1/19/2016 15:40,Product2,3600,Visa,Julia,Ede,Gelderland,Netherlands,1/19/2016 14:32,2/15/2016 10:33,52.0333333,5.6666667
+1/21/2016 23:52,Product1,1200,Visa,Sarah,Plan-les-Ouattes,Geneve,Switzerland,11/23/2015 4:51,2/15/2016 11:16,46.1666667,6.1166667
+1/19/2016 13:15,Product1,1200,Visa,Esther,Stocksund,Stockholm,Sweden,5/29/2007 1:32,2/15/2016 11:39,59.3833333,18.0666667
+1/16/2016 7:35,Product1,1200,Diners,amy,Stuttgart,Baden-Wurttemberg,Germany,10/6/2006 2:02,2/15/2016 12:00,48.7666667,9.1833333
+1/22/2016 9:48,Product2,3600,Mastercard,Jyoti,Tunbridge Wells,England,United Kingdom,1/8/2015 14:37,2/15/2016 13:36,51.1333333,0.2833333
+1/18/2016 12:05,Product2,3600,Visa,Keri,Issaquah                    ,WA,United States,1/5/2016 19:24,2/15/2016 13:40,47.53028,-122.03139
+1/4/2016 10:44,Product1,1200,Diners,Paul,Burnaby,British Columbia,Canada,11/26/2015 20:16,2/15/2016 13:46,49.25,-122.95
+1/20/2016 14:55,Product1,1200,Mastercard,Attie,Cypress                     ,CA,United States,9/27/2015 7:22,2/15/2016 15:23,33.81694,-118.03639
+1/2/2016 18:41,Product1,1200,Visa,odile,Lititz                      ,PA,United States,2/1/2006 8:47,2/15/2016 15:47,40.15722,-76.30722
+1/2/2016 7:03,Product1,1200,Visa,gail ,London,England,United Kingdom,5/24/2015 11:10,2/15/2016 16:04,51.52721,0.14559
+1/21/2016 7:19,Product1,1200,Visa,Niki,Chadds Ford                 ,PA,United States,3/5/2015 11:25,2/15/2016 16:06,39.87167,-75.59167
+1/11/2016 17:52,Product2,3600,Visa,Danny,St Thomas                   ,VI,United States,9/17/2003 11:57,2/15/2016 18:08,18.35917,-64.92111
+1/16/2016 17:56,Product1,1200,Mastercard,Sarah,Coppell                     ,TX,United States,1/16/2016 12:57,2/15/2016 20:13,32.95444,-97.01472
+1/9/2016 20:00,Product1,1200,Visa,Beckie ,Ladera Ranch                ,CA,United States,1/6/2016 13:50,2/15/2016 23:10,33.57056,-117.63861
+1/13/2016 2:47,Product1,1200,Visa,Maryse,Rathfarnham,Dublin,Ireland,1/13/2016 2:35,2/16/2016 0:09,53.3005556,-6.2827778
+1/19/2016 4:23,Product2,3600,Mastercard,don,Cagliari,Sardinia,Italy,1/13/2015 11:41,2/16/2016 0:22,39.2166667,9.1166667
+1/13/2016 12:51,Product1,1200,Visa,Majken,Charlottenlund,Kobenhavn,Denmark,5/27/2015 18:51,2/16/2016 1:05,55.75,12.5833333
+1/29/2016 7:40,Product1,1200,Amex,Karen and Andrew,Munchen,Bayern,Germany,7/29/2003 9:23,2/16/2016 2:39,49.55,11.5833333
+1/21/2016 4:34,Product1,1200,Visa,Katerina,Firenze,Tuscany,Italy,4/24/2015 0:57,2/16/2016 3:45,43.7666667,11.25
+1/7/2016 13:28,Product1,1200,Mastercard,Mary,Baile Atha Bui,Meath,Ireland,9/21/2005 15:42,2/16/2016 3:51,53.6186111,-6.9205556
+1/26/2016 16:47,Product1,1200,Visa,Oscar,Chamonix-Mont-Blanc,Rhone-Alpes,France,1/26/2016 4:53,2/16/2016 5:01,45.9166667,6.8666667
+1/29/2016 1:01,Product1,1200,Diners,Suejean,Gingins,Vaud,Switzerland,1/20/2016 6:14,2/16/2016 5:09,46.4,6.1833333
+1/25/2016 12:55,Product1,1200,Amex,ann,Boca Raton                  ,FL,United States,12/6/2015 15:26,2/16/2016 6:54,26.35833,-80.08333
+1/24/2016 13:35,Product1,1200,Visa,Renee,Chaska                      ,MN,United States,5/11/2006 13:27,2/16/2016 9:00,44.78944,-93.60194
+1/28/2016 13:30,Product1,1200,Visa,Catherine,Hghlnds Ranch               ,CO,United States,1/28/2016 13:03,2/16/2016 9:13,39.61333,-105.01611
+1/20/2016 19:08,Product1,1200,Amex,Rhonda,Atlanta                     ,GA,United States,11/21/2015 5:52,2/16/2016 10:08,33.74889,-84.38806
+1/29/2016 17:13,Product1,1200,Amex,alix,Tenafly                     ,NJ,United States,12/12/2007 12:26,2/16/2016 10:19,40.92528,-73.96333
+1/2/2016 5:33,Product1,1200,Visa,Mike,Aberdeen,Scotland,United Kingdom,10/18/2004 4:53,2/16/2016 11:12,57.1333333,-2.1
+1/31/2016 11:03,Product1,1200,Visa,Diane,Djurgarden,Stockholm,Sweden,1/25/2016 3:48,2/16/2016 12:08,59.3166667,18.1166667
+1/13/2016 9:16,Product1,1200,Visa,Sigrun,Nashville                   ,TN,United States,1/12/2016 20:48,2/16/2016 12:33,36.16583,-86.78444
+1/19/2016 12:38,Product1,1200,Visa,Dania,Munich,Bayern,Germany,1/19/2016 11:47,2/16/2016 12:46,48.15,11.5833333
+1/18/2016 12:14,Product2,3600,Mastercard,Kelsi,Utrecht,Utrecht,Netherlands,12/12/2015 3:30,2/16/2016 12:49,52.0833333,5.1333333
+1/22/2016 10:59,Product1,1200,Visa,Maria,Boyceville                  ,WI,United States,1/2/2016 14:09,2/16/2016 14:50,45.04361,-92.04083
+1/14/2016 7:30,Product1,1200,Visa,Bent Erik,Basauri,Pais Vasco,Spain,2/3/2015 2:56,2/16/2016 15:04,43.0166667,-2.4
+1/19/2016 1:52,Product1,1200,Amex,Kirsten,Melbourne,Victoria,Australia,4/24/2007 4:36,2/17/2016 1:20,-37.8166667,144.9666667
+1/8/2016 23:00,Product1,1200,Visa,Dickson,Kemerburgaz,Istanbul,Turkey,9/16/2015 2:07,2/17/2016 1:29,41.1594444,28.9127778
+1/25/2016 7:29,Product1,1200,Diners,Howard,Worcester,England,United Kingdom,1/22/2016 14:02,2/17/2016 3:00,52.2,-2.2
+1/17/2016 15:19,Product1,1200,Visa,Dana,Thurles,Tipperary,Ireland,1/15/2016 9:13,2/17/2016 3:26,52.6819444,-7.8022222
+1/23/2016 12:23,Product1,1200,Mastercard,Nola,Den Haag,Zuid-Holland,Netherlands,1/23/2016 11:11,2/17/2016 3:35,52.0833333,4.3
+1/24/2016 8:45,Product1,1200,Visa,Elizabeth,Cos Cob                     ,CT,United States,11/8/2015 14:45,2/17/2016 3:40,41.03333,-73.6
+1/27/2016 3:45,Product2,3600,Visa,minjeong,Bern,Bern,Switzerland,1/27/2016 2:39,2/17/2016 3:44,46.9166667,7.4666667
+1/29/2016 23:48,Product1,1200,Visa,Matt,Leicester,England,United Kingdom,11/15/2015 6:49,2/17/2016 5:47,52.6333333,-1.1333333
+1/3/2016 18:43,Product1,1200,Visa,Vanessa,Cornwall,Ontario,Canada,7/3/2006 8:36,2/17/2016 6:17,45.0166667,-74.7333333
+1/24/2016 17:18,Product2,3600,Visa,Charlotte,Sterling                    ,VA,United States,2/15/2015 15:34,2/17/2016 6:26,39.00611,-77.42889
+1/2/2016 15:13,Product1,1200,Visa,Rowena,Cork,Cork,Ireland,1/10/2006 7:05,2/17/2016 6:38,51.8986111,-8.4958333
+1/8/2016 10:44,Product1,1200,Visa,Catherine,Mount Forest,Ontario,Canada,1/6/2016 13:03,2/17/2016 6:39,43.9666667,-80.7333333
+1/29/2016 8:13,Product1,1200,Mastercard,Sarah,Ridgefield                  ,CT,United States,1/28/2015 13:55,2/17/2016 7:55,41.28139,-73.49861
+1/24/2016 10:26,Product1,1200,Visa,sorcha,Porto Alegre,Rio Grande do Sul,Brazil,1/24/2016 4:47,2/17/2016 8:05,-30.0333333,-51.2
+1/24/2016 12:56,Product1,1200,Visa,sorcha,Cartierville,Quebec,Canada,1/12/2016 21:34,2/17/2016 9:19,45.5333333,-73.7166667
+1/7/2016 13:38,Product1,1200,Mastercard,Mary,Stuttgart,Baden-Wurttemberg,Germany,1/6/2016 13:40,2/17/2016 9:32,48.7666667,9.1833333
+1/23/2016 15:38,Product1,1200,Visa,Ronja,Manhattan                   ,NY,United States,1/17/2016 15:05,2/17/2016 10:58,40.71417,-74.00639
+1/26/2016 14:43,Product1,1200,Visa,Nicola ,Sneem,Kerry,Ireland,1/26/2016 13:55,2/17/2016 11:07,51.8333333,-9.9
+1/17/2016 20:33,Product1,1200,Amex,BURCAK,Alpharetta                  ,GA,United States,1/9/2016 11:26,2/17/2016 12:31,34.07528,-84.29417
+1/5/2016 9:15,Product1,1200,Visa,isabelle,Sainte-Therese-de-Blainville,Quebec,Canada,8/21/2015 9:43,2/17/2016 12:34,45.6333333,-73.85
+1/20/2016 8:16,Product1,1200,Mastercard,christy,Germantown                  ,TN,United States,1/6/2016 8:33,2/17/2016 13:01,35.08667,-89.81
+1/29/2016 12:46,Product1,1200,Visa,Lilly,Castleknock,Dublin,Ireland,1/19/2016 16:00,2/17/2016 14:06,53.3786111,-6.3922222
+1/15/2016 18:12,Product1,1200,Diners,Mandy,Hono                        ,HI,United States,1/29/2007 13:21,2/17/2016 14:17,21.30694,-157.85833
+1/23/2016 13:55,Product1,1200,Mastercard,Elena,New Rochelle                ,NY,United States,8/7/2005 15:07,2/17/2016 15:16,40.91139,-73.78278
+1/26/2016 10:26,Product1,1200,Visa,Lolarae,Calgary,Alberta,Canada,1/26/2016 10:16,2/17/2016 15:17,51.0833333,-114.0833333
+1/12/2016 11:48,Product1,1200,Mastercard,Lisa,South Waterford             ,ME,United States,7/5/2007 14:58,2/17/2016 15:29,44.1786,-70.7164
+1/29/2016 15:20,Product1,1200,Mastercard,Nita and Trebor,Washington Township         ,OH,United States,1/18/2016 20:47,2/17/2016 16:29,39.75889,-84.19167
+1/28/2016 7:26,Product1,1200,Visa,Jenevieve,Guelph,Ontario,Canada,1/23/2016 19:04,2/17/2016 18:08,43.55,-80.25
+1/14/2016 0:03,Product2,3600,Mastercard,Piret,Bunbury,Western Australia,Australia,6/16/2015 18:22,2/17/2016 19:31,-33.3333333,115.6333333
+1/13/2016 1:55,Product1,1200,Mastercard,Damian,Mettlach,Saarland,Germany,4/1/2006 22:29,2/17/2016 20:45,49.5,6.6
+1/12/2016 23:21,Product1,1200,Mastercard,Lusell,Oberwil,Basel-Country,Switzerland,1/6/2016 2:47,2/17/2016 22:57,47.5166667,7.55
+1/22/2016 2:16,Product1,1200,Visa,Costanza,Beykoz,Istanbul,Turkey,9/7/2015 11:43,2/18/2016 0:27,41.1438889,29.0905556
+1/29/2016 12:53,Product1,1200,Visa,Vanessa,Arc-et-Senans,Franche-Comte,France,1/29/2016 10:10,2/18/2016 1:03,47.0333333,5.7666667
+1/28/2016 11:36,Product1,1200,Diners,Evelyn,Grossbodungen,Thuringia,Germany,1/28/2016 11:08,2/18/2016 2:04,51.4666667,10.5
+1/19/2016 6:50,Product1,1200,Amex,Nicola,Bruxelles,Brussels (Bruxelles),Belgium,7/13/2015 11:29,2/18/2016 2:30,50.8333333,4.3333333
+1/30/2016 5:20,Product1,1200,Visa,Simone,Kilcornan,Limerick,Ireland,1/30/2016 4:06,2/18/2016 7:23,52.6166667,-8.8833333
+1/19/2016 14:06,Product1,1200,Mastercard,Elisabeth,Wilmington                  ,NC,United States,1/19/2016 12:41,2/18/2016 8:18,34.22556,-77.945
+1/8/2016 9:43,Product1,1200,Visa,Kasey,Aix-en-Provence,Provence-Alpes-Cote d'Azur,France,1/5/2016 9:05,2/18/2016 8:38,43.5333333,5.4333333
+1/23/2016 9:09,Product2,3600,Amex,Olympe,Lidingo,Stockholm,Sweden,1/18/2006 11:49,2/18/2016 8:45,59.3666667,18.1333333
+1/20/2016 8:58,Product1,1200,Visa,James,Edmonton,Alberta,Canada,12/24/2015 17:51,2/18/2016 9:42,53.55,-113.5
+1/2/2016 13:35,Product1,1200,Visa,Alyssa,Antibes,Provence-Alpes-Cote d'Azur,France,7/29/2015 12:32,2/18/2016 10:28,43.5833333,7.1166667
+1/9/2016 15:03,Product1,1200,Visa,Reto,Seattle                     ,WA,United States,1/8/2016 18:59,2/18/2016 15:51,47.60639,-122.33083
+1/23/2016 7:04,Product1,1200,Amex,Joelle,Rowayton                    ,CT,United States,1/20/2016 10:46,2/18/2016 16:55,41.1175,-73.40833
+1/17/2016 10:14,Product1,1200,Mastercard,Nicole,Simcoe,Ontario,Canada,1/17/2016 7:46,2/18/2016 18:49,42.8333333,-80.3
+1/19/2016 16:16,Product1,1200,Mastercard,Alexandria,Lebanon                     ,PA,United States,9/3/2015 19:26,2/18/2016 19:38,40.34083,-76.41167
+1/20/2016 13:54,Product1,1200,Mastercard,Elisabeth,Birkdale,Queensland,Australia,12/20/2005 23:05,2/18/2016 23:07,-27.4833333,153.2166667
+1/23/2016 21:35,Product1,1200,Visa,Ann,Brisbane,Queensland,Australia,4/21/2007 19:33,2/18/2016 23:12,-27.5,153.0166667
+1/21/2016 23:41,Product1,1200,Visa,Olga,Strasbourg,Alsace,France,2/4/2015 4:45,2/19/2016 0:09,48.5833333,7.75
+1/21/2016 4:11,Product1,1200,Visa,Courtney,Suchdol,Prague,Czech Republic,9/30/2015 10:39,2/19/2016 0:55,50.1333333,14.3833333
+1/10/2016 3:43,Product1,1200,Visa,stacy,Stuttgart,Baden-Wurttemberg,Germany,3/5/2006 15:01,2/19/2016 3:11,48.7666667,9.1833333
+1/15/2016 18:08,Product2,3600,Amex,Monica,Villanova                   ,PA,United States,1/12/2016 17:16,2/19/2016 3:19,40.03722,-75.34944
+1/20/2016 14:48,Product2,3600,Visa,Michael,Norrkoping,Ostergotland,Sweden,12/21/2015 11:49,2/19/2016 5:22,58.6,16.1833333
